@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #24bd4d;
+}
+
+.navbar .logout{
+    cursor: pointer;
+}
+
+li {
+    margin-left: 20px;
+}
